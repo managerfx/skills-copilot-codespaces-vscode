@@ -1,10 +1,4 @@
-// Create a web server
-// Create a route for '/comments'
-// Send a response with a JSON object
-// The JSON object should have a key 'comments' with a value of an array of strings
-// Each string should be a comment you'd like to share
-// Start your server and test your code by visiting http://localhost:3000/comments in your browser
-// If you're having trouble, run the test to see if you're on the right track!
+// Create web server
 
 const express = require('express');
 const app = express();
